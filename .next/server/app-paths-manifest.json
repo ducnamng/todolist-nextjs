@@ -1,7 +1,4 @@
 {
-  "/page": "app/page.js",
   "/youtube/page": "app/youtube/page.js",
-  "/instagram/page": "app/instagram/page.js",
-  "/blogs/page": "app/blogs/page.js",
-  "/blogs/[id]/page": "app/blogs/[id]/page.js"
+  "/blogs/page": "app/blogs/page.js"
 }
